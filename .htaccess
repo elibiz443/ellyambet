@@ -1,0 +1,14 @@
+RewriteEngine On
+
+# Rewrite base to your project folder if it's not the root
+RewriteBase /ellyambet/
+
+# Remove .php extension for pages
+RewriteRule ^auth/register$ admin/views/auth/register.php [L]
+RewriteRule ^auth/login$ admin/views/auth/login.php [L]
+RewriteRule ^dashboard$ admin/views/dashboard/index.php [L]
+
+RewriteRule ^contact$ pages/contacts.php [L]
+RewriteRule ^experience$ pages/experience.php [L]
+RewriteRule ^projects$ pages/projects.php [L]
+RewriteRule ^tutorials$ pages/tutorials.php [L]
