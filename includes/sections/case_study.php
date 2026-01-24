@@ -1,4 +1,4 @@
-<section id="case-studies" class="py-24 bg-[#0f172a]">
+<section id="case-studies" class="py-24 bg-[#0f172a] border-b border-slate-700">
   <div class="max-w-7xl mx-auto px-6">
     <div class="mb-16 text-center">
       <h2 class="text-4xl font-bold text-white mb-4">Impact Case Studies</h2>

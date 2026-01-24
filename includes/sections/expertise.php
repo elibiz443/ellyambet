@@ -1,4 +1,4 @@
-<section class="bg-[#020617] py-24 px-6">
+<section class="bg-[url('../../assets/images/bg.webp')] bg-cover bg-bottom py-24 px-6 border-b border-slate-700">
   <div class="container mx-auto">
     <div class="flex flex-col lg:flex-row lg:items-end justify-between gap-8 mb-16">
       <h2 class="text-4xl md:text-5xl font-black text-white leading-tight">
@@ -12,10 +12,10 @@
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
       
-      <div class="lg:col-span-2 relative rounded-3xl border border-t-2 border-slate-700 bg-gradient-to-b from-[#6366f2]/30 to-black/80 p-8 md:p-12 min-h-[28rem] flex flex-col justify-between">
+      <div class="lg:col-span-2 relative rounded-3xl border border-t-2 border-slate-700 bg-gradient-to-b from-[#6366f2]/30 to-black/80 p-8 md:p-12 min-h-[28rem] flex flex-col justify-between overflow-hidden">
         <div class="z-10 relative max-w-md space-y-6">
           <h3 class="text-2xl font-bold text-white">Scalable Infrastructure Design</h3>
-          <p class="text-slate-300">
+          <p class="text-slate-300 w-[80%]">
             Architecting high-availability cloud environments optimized for SaMD deployment and automated scaling.
           </p>
           <a href="#" class="inline-flex items-center gap-2 text-[#6366f1] font-bold text-sm hover:gap-4 transition-all duration-500 ease-in-out">
@@ -25,7 +25,7 @@
             </svg>
           </a>
         </div>
-        <img src="<?php echo ROOT_URL; ?>/assets/images/pic7.webp" class="absolute right-2 bottom-2 w-[54%] h-auto" alt="Elly Ambet Working">
+        <img src="<?php echo ROOT_URL; ?>/assets/images/pic7.webp" class="absolute right-0 bottom-0 w-full h-auto" alt="Elly Ambet Working">
       </div>
 
       <div class="min-h-[20rem] rounded-3xl border border-t-2 border-slate-700 bg-gradient-to-b from-[#6366f2]/30 to-black/80 p-8 flex flex-col justify-between">

@@ -1,4 +1,4 @@
-<section id="testimonials" class="py-24 bg-[#0f172a]">
+<section class="py-24 bg-[#020617] border-b border-slate-700">
   <div class="max-w-7xl mx-auto px-6">
     <h2 class="text-3xl font-bold text-white mb-12 text-center">Industry Recognition</h2>
     <div class="grid md:grid-cols-2 gap-8 italic text-slate-400">

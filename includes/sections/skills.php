@@ -1,4 +1,4 @@
-<section id="expertise" class="py-24 bg-[#1e293b]/20">
+<section id="expertise" class="py-24 bg-[#1e293b]/20 border-b border-slate-700">
   <div class="max-w-7xl mx-auto px-6">
     <div class="grid lg:grid-cols-2 gap-16 items-center">
       <div>

@@ -1,4 +1,4 @@
-<section class="py-24 px-6 container mx-auto">
+<section class="py-24 px-6 container mx-auto border-b border-slate-700">
   <div class="grid lg:grid-cols-12 gap-6">
     <div class="lg:col-span-8">
       <h2 class="text-4xl font-extrabold mb-6">Software Solutions</h2>
