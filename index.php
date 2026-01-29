@@ -29,8 +29,8 @@
   <main class="min-h-screen">
     <?php include './includes/sections/hero.php'; ?>
     <?php include './includes/sections/banner.php'; ?>
+    <?php include './includes/sections/stack.php'; ?>
     <?php include './includes/sections/skills.php'; ?>
-    <?php include './includes/sections/expertise.php'; ?>
     <?php include './includes/sections/services.php'; ?>
     <?php include './includes/sections/tech_solutions.php'; ?>
     <?php include './includes/sections/case_study.php'; ?>

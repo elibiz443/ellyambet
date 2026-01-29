@@ -45,7 +45,7 @@
       <p class="text-slate-400 font-thin text-sm mb-4 w-3/4">
         Design, develop, and deploy advanced software infrastructures tailored for growth, security, and operational brilliance.
       </p>
-      <button class="group cursor-pointer bg-[#6366f1]/60 px-8 py-3 rounded-md mt-4 transition hover:scale-110 hover:bg-[#6366f1]/80 mb-10 border border-slate-500 flex items-center justify-center transition-all duration-500 ease-in-out">
+      <button onclick="location.href='<?php echo ROOT_URL; ?>/projects'" class="group cursor-pointer bg-[#6366f1]/60 px-8 py-3 rounded-md mt-4 transition hover:scale-110 hover:bg-[#6366f1]/80 mb-10 border border-slate-500 flex items-center justify-center transition-all duration-500 ease-in-out">
         View Projects
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" class="h-5 w-5 ml-2 group-hover:translate-x-4 transition-all duration-500 ease-in-out">
           <path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/>
