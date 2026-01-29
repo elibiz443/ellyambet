@@ -1,7 +1,7 @@
 <footer class="relative bg-[#020617] pt-28 pb-10 px-6 overflow-hidden border-t border-slate-900">
   
   <div class="absolute -bottom-10 left-0 w-full select-none pointer-events-none opacity-[0.02] overflow-hidden whitespace-nowrap">
-    <span class="text-[20rem] font-black text-white leading-none">ARCHITECT</span>
+    <span class="text-[20rem] font-black text-white leading-none">DEVELOPER</span>
   </div>
 
   <div class="container mx-auto relative z-10">
@@ -12,7 +12,7 @@
           <h2 class="text-2xl font-black text-white tracking-wide uppercase">
             Elly O.<span class="text-[#6366f1]"> Ambet</span>
           </h2>
-          <p class="text-xs font-bold text-slate-500 tracking-[0.3em] uppercase mt-2">Senior Compliance Architect</p>
+          <p class="text-xs font-bold text-slate-500 tracking-[0.3em] uppercase mt-2">Senior Software Developer</p>
         </div>
         
         <p class="text-slate-400 text-lg max-w-sm leading-relaxed">

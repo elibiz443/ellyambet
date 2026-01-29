@@ -1,9 +1,13 @@
 <section class="relative pt-28 pb-20 px-6 bg-[url('../../assets/images/bg.webp')] bg-cover bg-bottom">
   <div class="container mx-auto grid lg:grid-cols-12 gap-12 items-center">
     <div class="lg:col-span-6 space-y-6">
-      <span class="inline-block py-1 px-3 rounded-full bg-[#6366f1]/10 border border-[#6366f1]/20 text-[#6366f1] text-xs font-bold tracking-widest uppercase">
-        Available for Contracts
-      </span>
+      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#6366f1]/10 border border-[#6366f1]/20 mb-6">
+        <span class="relative flex h-2 w-2">
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#6366f1]/70"></span>
+          <span class="relative inline-flex rounded-full h-2 w-2 bg-[#6366f1]"></span>
+        </span>
+        <span class="text-xs font-bold tracking-widest text-[#6366f1] uppercase">Available for Contracts</span>
+      </div>
       <h1 class="text-5xl md:text-7xl font-extrabold text-white leading-tight">
         Architecting <span class="text-[#6366f1]">Compliant</span> Cloud Solutions.
       </h1>
