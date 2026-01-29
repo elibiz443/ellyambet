@@ -16,23 +16,13 @@
         I bridge the gap between high-velocity engineering and rigorous regulatory standards like: 
         <span class="text-white font-semibold ml-2">FDA 21 CFR 820 & ISO 13485</span>.
       </p>
-      <div class="flex space-x-4">
-        <a href="<?php echo ROOT_URL; ?>/contact" class="group relative bg-[#6366f1] text-white w-[12rem] h-[3rem] rounded-xl font-bold shadow-lg shadow-[#6366f1]/20 overflow-hidden">
-          <div class="relative z-10 w-full h-full flex items-center justify-center">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" fill="currentColor" class="w-6 h-6 mr-[0.25rem]">
-              <path d="M128 96C92.7 96 64 124.7 64 160L64 400L128 400L128 160L512 160L512 400L576 400L576 160C576 124.7 547.3 96 512 96L128 96zM19.2 448C8.6 448 0 456.6 0 467.2C0 509.6 34.4 544 76.8 544L563.2 544C605.6 544 640 509.6 640 467.2C640 456.6 631.4 448 620.8 448L19.2 448z"/>
-            </svg>
-            Request Service
-          </div>
-
-          <div class="absolute top-0 left-0 w-full h-full flex -translate-x-[12rem] group-hover:translate-x-[12rem] transition-all duration-700 ease-in-out">
-            <div class="w-[2rem] h-full"></div>
-            <div class="bg-indigo-700/70 w-[2rem] h-full"></div>
-            <div class="w-[2rem] h-full"></div>
-            <div class="bg-indigo-700/70 w-[2rem] h-full"></div>
-            <div class="w-[2rem] h-full"></div>
-            <div class="bg-indigo-700/70 w-[2rem] h-full"></div>
-          </div>
+      <div class="md:flex md:space-x-4">
+        <a href="<?php echo ROOT_URL; ?>/contact" class="group relative mb-4 md:mb-0 w-[12rem] h-[3rem] rounded-xl bg-[#6366f1] text-white font-bold shadow-lg shadow-indigo-800/20 flex items-center justify-center overflow-hidden">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" fill="currentColor" class="relative z-[999] w-6 h-6 mr-[0.25rem]">
+            <path d="M128 96C92.7 96 64 124.7 64 160L64 400L128 400L128 160L512 160L512 400L576 400L576 160C576 124.7 547.3 96 512 96L128 96zM19.2 448C8.6 448 0 456.6 0 467.2C0 509.6 34.4 544 76.8 544L563.2 544C605.6 544 640 509.6 640 467.2C640 456.6 631.4 448 620.8 448L19.2 448z"/>
+          </svg>
+          <span class="relative z-[999]">Request Service</span>
+          <span class="bg-indigo-700/80 absolute z-[99] left-1/2 -translate-x-1/2 -top-[6.5rem] w-0 h-[16rem] -rotate-[75deg] group-hover:w-[8rem] transition-all duration-700 ease-in-out"></span>
         </a>
         <a href="https://github.com/elibiz443" target="_blank" class="group bg-slate-800 text-white w-[14rem] h-[3rem] rounded-xl font-bold flex items-center justify-center overflow-hidden">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" fill="currentColor" class="w-6 h-6 mr-[0.25rem] group-hover:translate-x-[10rem] transition-all duration-700 ease-in-out">

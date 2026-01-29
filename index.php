@@ -37,14 +37,11 @@
     <?php include './includes/sections/testimonials.php'; ?>
     <?php include './includes/sections/advert.php'; ?>
   </main>
-  
-  <?php include './includes/modal1.php'; ?>
 
   <?php include './includes/footer.php'; ?>
   <?php include './includes/roll-to-top-button.php'; ?>
 
   <script src="<?php echo ROOT_URL; ?>/assets/js/main.js"></script>
-  <script src="<?php echo ROOT_URL; ?>/assets/js/modal1.js"></script>
   <script src="<?php echo ROOT_URL; ?>/assets/js/scroll-to-top.js"></script>
   <script src="<?php echo ROOT_URL; ?>/assets/js/counter.js"></script>
   <script src="<?php echo ROOT_URL; ?>/assets/js/header.js"></script>

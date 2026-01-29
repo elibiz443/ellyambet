@@ -36,6 +36,6 @@
 
   <script src="<?php echo ROOT_URL; ?>/assets/js/main.js"></script>
   <script src="<?php echo ROOT_URL; ?>/assets/js/scroll-to-top.js"></script>
-  <script src="<?php echo ROOT_URL; ?>/assets/js/counter.js"></script>
+  <script src="<?php echo ROOT_URL; ?>/assets/js/header.js"></script>
 </body>
 </html>
